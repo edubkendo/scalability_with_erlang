@@ -1,0 +1,2 @@
+defmodule Freq do
+end
